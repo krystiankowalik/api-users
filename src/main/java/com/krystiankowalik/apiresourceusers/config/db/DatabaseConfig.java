@@ -1,4 +1,4 @@
-package com.krystiankowalik.resourceserver2;
+package com.krystiankowalik.apiresourceusers.config.db;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

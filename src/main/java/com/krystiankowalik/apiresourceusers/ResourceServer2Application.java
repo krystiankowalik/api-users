@@ -1,4 +1,4 @@
-package com.krystiankowalik.resourceserver2;
+package com.krystiankowalik.apiresourceusers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

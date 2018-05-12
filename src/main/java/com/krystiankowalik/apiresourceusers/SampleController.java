@@ -1,4 +1,4 @@
-package com.krystiankowalik.resourceserver2;
+package com.krystiankowalik.apiresourceusers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

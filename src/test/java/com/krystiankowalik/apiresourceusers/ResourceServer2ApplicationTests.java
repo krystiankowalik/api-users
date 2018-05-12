@@ -1,4 +1,4 @@
-package com.krystiankowalik.resourceserver2;
+package com.krystiankowalik.apiresourceusers;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
