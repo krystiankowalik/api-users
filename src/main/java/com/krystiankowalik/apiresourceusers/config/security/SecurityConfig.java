@@ -31,7 +31,7 @@ public class SecurityConfig extends ResourceServerConfigurerAdapter {
                 .antMatchers("/secure").authenticated()
                 .and()
                 .authorizeRequests()
-                .antMatchers("/normal", "simpleemail","get").permitAll();
+                .antMatchers("/normal", "simpleemail","get","/users").permitAll();
     }
 
     @Bean

@@ -7,12 +7,12 @@ import retrofit2.http.*;
 public interface ApiEmailService {
 
    /* @GET("/users")
-    public Call<List<User>> getUsers(
+    public Call<List<UserEntity>> getUsers(
             @Query("per_page") int per_page,
             @Query("page") int page);
 
     @GET("/users/{username}")
-    public Call<User> getUser(@Path("username") String username);*/
+    public Call<UserEntity> getUserEntity(@Path("username") String username);*/
 
     @GET("/get")
     Call<String> get();
